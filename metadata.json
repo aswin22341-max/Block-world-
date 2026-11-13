@@ -1,0 +1,6 @@
+{
+  "name": "BLOCKVERSE 3D",
+  "description": "Playable 3D blocky sandbox game with open world exploration, avatar customization, building, vehicles, pets, mini-games, world editor, and WebSocket multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
